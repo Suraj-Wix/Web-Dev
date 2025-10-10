@@ -1,11 +1,11 @@
-# 🌐 Web Development - Learning Journey
+# Web Development - Learning Journey
 ---
-## 📖 About This Repository
+##  About This Repository
 This repository contains my **web development projects** while learning through the **Coder Army NEXUS Program**.  
 It showcases my **progress from basics to advanced web development**, including HTML, CSS, JavaScript, React, Node.js, and MongoDB.  
 The purpose of this repository is to **track learning, practice projects, and create a professional portfolio** for future opportunities.
 ---
-## 💻 Projects
+## Projects
 ### 1. HTML & CSS Basics
 - **Folder:** `01HTML-CSS`
 - **Description:** Static webpages demonstrating layout, styling, and responsive design.  
@@ -19,13 +19,13 @@ The purpose of this repository is to **track learning, practice projects, and cr
 - **Folder:** `Extras`
 - **Description:** portfollio website, login forms, and small practice projects from the NEXUS curriculum.  
 ---
-## 🛠 Technologies
+## Technologies
 - **Frontend:** HTML5, CSS3, JavaScript, React.js  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Tools:** Git, GitHub, VS Code, Postman  
 ---
-## ⚙️ Installation
+## Installation
 1. Clone the repository:
 ```bash
 git clone https://github.com/Suraj-Wix/web-dev.git
