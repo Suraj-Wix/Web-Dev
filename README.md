@@ -1,7 +1,7 @@
 # Web Development - Learning Journey
 ---
 ##  About This Repository
-This repository contains my **web development projects** while learning through the **Coder Army NEXUS Program**.  
+This repository contains my **web development projects** while learning through the *Coder Army NEXUS Program*.  
 It showcases my **progress from basics to advanced web development**, including HTML, CSS, JavaScript, React, Node.js, and MongoDB.  
 The purpose of this repository is to **track learning, practice projects, and create a professional portfolio** for future opportunities.
 ---
