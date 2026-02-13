@@ -1,4 +1,4 @@
- Web Development - Learning Journey
+Web Development - Learning Journey
 ---
 ##  About This Repository
 This repository contains my *web development projects* while learning through the *Coder Army NEXUS Program*.  
@@ -26,6 +26,6 @@ The purpose of this repository is to *track learning, practice projects, and cre
 - *Tools:* Git, GitHub, VS Code, Postman  
 ---
 ## Installation
-1. Clone the repository:
+1. Clone the repository:-
 ```bash
 git clone https://github.com/Suraj-Wix/web-dev.git
